@@ -144,7 +144,7 @@ const celularValido = celularSoloNumeros.length === 10;
     <div className="container" style={{ padding: 20, fontFamily: 'sans-serif', maxWidth: 900, margin: "0 auto" }}>
       {step === 1 && (
         <>
-          <h1 style={{ fontSize: "2rem", fontWeight: "bold" }}>Haz tu pedido fácil y rápido</h1>
+          <h1 style={{ fontSize: "2rem", fontWeight: "bold" }}>CAMISAS DAMA Haz tu pedido fácil y rápido</h1>
 
 <div
   style={{
